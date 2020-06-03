@@ -2,4 +2,4 @@
 
 This work was done for research at USC's Autonomous Networks Research Group
 
-### Credit: https://www.nsnam.org/doxygen/simple-point-to-point-olsr_8cc_source.html 
+### Started with this file and made minor edits: https://www.nsnam.org/doxygen/simple-point-to-point-olsr_8cc_source.html 
